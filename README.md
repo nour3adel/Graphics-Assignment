@@ -15,4 +15,4 @@ OpenGl c# Computer Graphics Assignment
 
 # Phase 2 Textures and Shading 
 
-![3](imgs/3.png)
+![3](imgs/3.jpg)
